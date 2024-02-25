@@ -31,7 +31,7 @@
 
 ## Demo with Me
 
-[Netlify Demo](https://shopping-cart-react-task.netlify.app/)
+[Netlify Demo](https://helpful-kitsune-c84059.netlify.app/)
 
 
 
